@@ -1,6 +1,10 @@
 Prompts on this page require the Purview plugin to work.
 <br><br>
 ```
+Retrieve and organize the most recent DLP alerts for triage purposes.
+```
+---
+```
 Show me the top 5 DLP alerts that I should prioritize today?
 ```
 ---
