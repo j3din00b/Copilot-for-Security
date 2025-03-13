@@ -1,6 +1,10 @@
 Prompts on this page require the Purview plugin to work.
 <br><br>
 ```
+Summarize the latest Data Loss Prevention (DLP) alerts from Microsoft Purview.
+```
+---
+```
 Retrieve and organize the most recent DLP alerts for triage purposes.
 ```
 ---
