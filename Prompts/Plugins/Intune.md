@@ -1,6 +1,10 @@
 Prompts on this page require the Intune plugin to work.
 <br><br>
 ```
+Analyze recent Intune device compliance reports and highlight any critical non-compliant trends.
+```
+---
+```
 What groups is Microsoft Monitoring Agent assigned to?
 ```
 ---
