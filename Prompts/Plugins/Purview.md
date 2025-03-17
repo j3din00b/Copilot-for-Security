@@ -1,6 +1,10 @@
 Prompts on this page require the Purview plugin to work.
 <br><br>
 ```
+How do I setup a DLP policy?
+```
+---
+```
 How do I fix issues with automatic labeling in MIP?
 ```
 ---
