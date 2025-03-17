@@ -1,6 +1,10 @@
 Prompts on this page require the Intune plugin to work.
 <br><br>
 ```
+Analyze the security compliance of devices enrolled in Microsoft Intune and provide a summary of non-compliant devices.
+```
+---
+```
 Analyze recent Intune device compliance reports and highlight any critical non-compliant trends.
 ```
 ---
