@@ -1,6 +1,11 @@
 Prompts on this page require the Intune plugin to work.
 <br><br>
 ```
+Generate a report on recent security issues involving Intune-managed devices, including affected users and recommended actions.
+```
+---
+```
+```
 Analyze the security compliance of devices enrolled in Microsoft Intune and provide a summary of non-compliant devices.
 ```
 ---
