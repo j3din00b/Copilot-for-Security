@@ -1,6 +1,10 @@
 Prompts on this page require the Purview plugin to work.
 <br><br>
 ```
+How do I fix issues with automatic labeling in MIP?
+```
+---
+```
 Summarize the latest Data Loss Prevention (DLP) alerts from Microsoft Purview.
 ```
 ---
