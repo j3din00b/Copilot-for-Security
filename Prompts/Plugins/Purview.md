@@ -1,6 +1,10 @@
 Prompts on this page require the Purview plugin to work.
 <br><br>
 ```
+What permissions are needed to get started with Insider Risk Management?
+```
+---
+```
 How do I setup a DLP policy?
 ```
 ---
