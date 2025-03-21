@@ -1,6 +1,10 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+Identify and analyze risky sign-ins and users in my organization.
+```
+---
+```
 Evaluate current access policies and suggest improvements to enhance security.
 ```
 ---
