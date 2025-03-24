@@ -2,6 +2,10 @@ Prompts on this page use the Microsoft Docs System Capability. <br><br>
 See: <a href="https://rodtrent.substack.com/p/brief-how-to-search-microsoft-documentation" target="_blank">Brief: How to Search Microsoft Documentation in Copilot for Security</a> 
 <br><br>
 ```
+Provide an overview of the regulatory requirements Purview is monitoring for our industry. Suggest methods to enhance compliance and reduce regulatory risk.
+```
+---
+```
 What steps can we take to align with Zero Trust principles using Entra.
 ```
 ---
