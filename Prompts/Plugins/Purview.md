@@ -1,6 +1,10 @@
 Prompts on this page require the Purview plugin to work.
 <br><br>
 ```
+Identify anomalies in data activity patterns using Purview's audit logs. Suggest automated alerts for potential security threats.
+```
+---
+```
 What permissions are needed to get started with Insider Risk Management?
 ```
 ---
