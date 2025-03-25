@@ -1,6 +1,10 @@
 Prompts on this page require the Purview plugin to work.
 <br><br>
 ```
+Triage the most recent Purview alerts.
+```
+---
+```
 Identify anomalies in data activity patterns using Purview's audit logs. Suggest automated alerts for potential security threats.
 ```
 ---
