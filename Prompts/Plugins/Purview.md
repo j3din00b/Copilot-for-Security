@@ -1,6 +1,10 @@
 Prompts on this page require the Purview plugin to work.
 <br><br>
 ```
+Summarize the data risk associated with a recent security incident.
+```
+---
+```
 Triage the most recent Purview alerts.
 ```
 ---
