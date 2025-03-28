@@ -1,6 +1,10 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+What groups is <username> assigned to?
+```
+---
+```
 Identify and analyze risky sign-ins and users in my organization.
 ```
 ---
