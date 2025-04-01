@@ -1,6 +1,10 @@
 Prompts on this page require the Purview plugin to work.
 <br><br>
 ```
+Identify gaps in our GDPR compliance.
+```
+---
+```
 Track sensitive data movement across the organization using Microsoft Purview tools. Suggest policies to reduce exposure.
 ```
 ---
