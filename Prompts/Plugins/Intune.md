@@ -5,7 +5,6 @@ Generate a report on recent security issues involving Intune-managed devices, in
 ```
 ---
 ```
-```
 Analyze the security compliance of devices enrolled in Microsoft Intune and provide a summary of non-compliant devices.
 ```
 ---
