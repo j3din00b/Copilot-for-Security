@@ -1,6 +1,10 @@
 Prompts on this page require the Intune plugin to work.
 <br><br>
 ```
+Generate a report on devices managed by Intune that are flagged as non-compliant and recommend next steps for remediation.
+```
+---
+```
 Generate a report on recent security issues involving Intune-managed devices, including affected users and recommended actions.
 ```
 ---
