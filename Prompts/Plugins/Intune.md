@@ -1,6 +1,10 @@
 Prompts on this page require the Intune plugin to work.
 <br><br>
 ```
+Analyze compliance status for devices enrolled in Microsoft Intune and identify those with high-risk configurations. Provide actionable recommendations to mitigate risks.
+```
+---
+```
 Generate a report on devices managed by Intune that are flagged as non-compliant and recommend next steps for remediation.
 ```
 ---
