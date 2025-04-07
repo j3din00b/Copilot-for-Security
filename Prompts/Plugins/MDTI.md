@@ -1,6 +1,10 @@
 MDTI is integral to the Copilot for Security experience. <br>
 
 ```
+What is the likelihood of real-world exploitation for CVE-2025-30065?
+```
+---
+```
 Provide a summary of the latest vulnerabilities affecting Microsoft Office in the last 3 months.
 ```
 ---
