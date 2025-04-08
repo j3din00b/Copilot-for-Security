@@ -1,6 +1,10 @@
 Prompts on this page require the Microsoft 365 Defender plugin to work.
 <br><br>
 ```
+Generate an incident report for incident <incident_number>.
+```
+---
+```
 Provide a detailed report on the recent security incident [number] involving user [username].
 ```
 ---
