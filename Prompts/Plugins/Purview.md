@@ -1,6 +1,10 @@
 Prompts on this page require the Purview plugin to work.
 <br><br>
 ```
+Use Microsoft Purview to tell me about the total Microsoft Copilot interactions over the last 24 hours.
+```
+---
+```
 Identify gaps in our GDPR compliance.
 ```
 ---
