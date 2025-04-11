@@ -1,6 +1,10 @@
 Prompts on this page require the Natural Language to KQL plugin to work.
 <br><br>
 ```
+Examine the environment for communication to suspicious IP addresses or domains and match them to known threat actor infrastructure.
+```
+---
+```
 Evaluate historical login data and privilege escalation attempts to detect potential lateral movement consistent with threat actor behavior.
 ```
 ---
