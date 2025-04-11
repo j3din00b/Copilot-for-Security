@@ -1,6 +1,10 @@
 Prompts on this page require the Natural Language to KQL plugin to work.
 <br><br>
 ```
+Investigate recent suspicious PowerShell activity or script executions and identify whether they align with known attack vectors.
+```
+---
+```
 Examine the environment for communication to suspicious IP addresses or domains and match them to known threat actor infrastructure.
 ```
 ---
