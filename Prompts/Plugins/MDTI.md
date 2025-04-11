@@ -1,6 +1,10 @@
 MDTI is integral to the Copilot for Security experience. <br>
 
 ```
+Cross-reference detected malware signatures and phishing attempts with databases of threat actor groups to attribute the attacks.
+```
+---
+```
 What is the likelihood of real-world exploitation for CVE-2025-30065?
 ```
 ---
