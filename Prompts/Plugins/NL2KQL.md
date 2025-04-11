@@ -1,6 +1,10 @@
 Prompts on this page require the Natural Language to KQL plugin to work.
 <br><br>
 ```
+Evaluate historical login data and privilege escalation attempts to detect potential lateral movement consistent with threat actor behavior.
+```
+---
+```
 Analyze sign-in logs for unusual activity patterns over the last week.
 ```
 ---
