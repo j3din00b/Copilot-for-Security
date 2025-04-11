@@ -1,6 +1,10 @@
 MDTI is integral to the Copilot for Security experience. <br>
 
 ```
+Map newly discovered vulnerabilities in the environment against the threat actor exploitation techniques documented in real-time threat intelligence feeds.
+```
+---
+```
 Cross-reference detected malware signatures and phishing attempts with databases of threat actor groups to attribute the attacks.
 ```
 ---
