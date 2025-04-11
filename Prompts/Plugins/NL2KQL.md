@@ -1,6 +1,10 @@
 Prompts on this page require the Natural Language to KQL plugin to work.
 <br><br>
 ```
+Examine failed login attempts and unusual geolocation access patterns for indications of brute force or credential-stuffing attacks by threat actors.
+```
+---
+```
 Investigate recent suspicious PowerShell activity or script executions and identify whether they align with known attack vectors.
 ```
 ---
