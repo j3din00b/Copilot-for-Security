@@ -1,6 +1,10 @@
 Prompts on this page require the Intune plugin to work.
 <br><br>
 ```
+Summarize the Intune-managed devices flagged as non-compliant. Include the top reasons for non-compliance and suggest targeted solutions.
+```
+---
+```
 Analyze compliance status for devices enrolled in Microsoft Intune and identify those with high-risk configurations. Provide actionable recommendations to mitigate risks.
 ```
 ---
