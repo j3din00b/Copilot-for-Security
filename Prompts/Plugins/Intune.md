@@ -1,6 +1,10 @@
 Prompts on this page require the Intune plugin to work.
 <br><br>
 ```
+Generate a report of devices missing critical Intune configurations, such as encryption or application protection policies. Recommend priorities for addressing these gaps.
+```
+---
+```
 Summarize the Intune-managed devices flagged as non-compliant. Include the top reasons for non-compliance and suggest targeted solutions.
 ```
 ---
