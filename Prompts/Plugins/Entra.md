@@ -1,8 +1,13 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+Investigate identity-related incidents using Microsoft Entra data and summarize findings.
+```
+---
+```
 Identify and report on overprivileged group memberships in Microsoft Entra.
 ```
+---
 ```
 Investigate unusual sign-in patterns in Microsoft Entra logs and provide insights.
 ```
