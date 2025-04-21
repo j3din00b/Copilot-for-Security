@@ -1,6 +1,10 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+Investigate unusual sign-in patterns in Microsoft Entra logs and provide insights.
+```
+---
+```
 Create a report detailing which users have risky sign-ins or high-risk events within Microsoft Entra.
 ```
 ---
