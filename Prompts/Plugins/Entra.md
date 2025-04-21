@@ -1,6 +1,9 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+Identify and report on overprivileged group memberships in Microsoft Entra.
+```
+```
 Investigate unusual sign-in patterns in Microsoft Entra logs and provide insights.
 ```
 ---
