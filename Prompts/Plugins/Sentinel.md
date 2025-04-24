@@ -1,6 +1,10 @@
 Prompts on this page require the Microsoft Sentinel plugin to work.
 <br><br>
 ```
+Investigate anomalous activities flagged by Sentinel related to privileged account access. Correlate findings with Defender signals.
+```
+---
+```
 List all Sentinel workspaces.
 ```
 ---
