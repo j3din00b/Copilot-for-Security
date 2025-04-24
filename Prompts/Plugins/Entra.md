@@ -1,6 +1,10 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+Analyze recent failed sign-in attempts across all Entra tenants. Identify patterns or potential brute-force attacks.
+```
+---
+```
 Investigate identity-related incidents using Microsoft Entra data and summarize findings.
 ```
 ---
