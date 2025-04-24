@@ -1,6 +1,10 @@
 Prompts on this page require the Microsoft 365 Defender plugin to work.
 <br><br>
 ```
+Summarize active Defender for Endpoint alerts categorized as critical severity.
+```
+---
+```
 Generate an incident report for incident <incident_number>.
 ```
 ---
