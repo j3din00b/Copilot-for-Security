@@ -1,6 +1,10 @@
 Prompts on this page require the Intune plugin to work.
 <br><br>
 ```
+Generate a compliance report for all Intune-managed devices, highlighting security misconfigurations and vulnerabilities.
+```
+---
+```
 Generate a report of devices missing critical Intune configurations, such as encryption or application protection policies. Recommend priorities for addressing these gaps.
 ```
 ---
