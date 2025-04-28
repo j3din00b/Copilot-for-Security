@@ -1,6 +1,10 @@
 Prompts on this page require the Natural Language to KQL plugin to work.
 <br><br>
 ```
+Identify any unusual authentication attempts or privilege escalations across critical systems.
+```
+---
+```
 Analyze recent security logs for indicators of compromise related to malware, phishing, or unauthorized access.
 ```
 ---
