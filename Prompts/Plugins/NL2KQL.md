@@ -1,6 +1,10 @@
 Prompts on this page require the Natural Language to KQL plugin to work.
 <br><br>
 ```
+Analyze recent security logs for indicators of compromise related to malware, phishing, or unauthorized access.
+```
+---
+```
 Correlate incidents detected across Entra, Defender, and Sentinel to uncover potential advanced persistent threats (APTs).
 ```
 ---
