@@ -1,6 +1,10 @@
 Prompts on this page require the Intune plugin to work.
 <br><br>
 ```
+Assess endpoint security posture and flag devices showing signs of compromise based on behavioral analytics.
+```
+---
+```
 Generate a compliance report for all Intune-managed devices, highlighting security misconfigurations and vulnerabilities.
 ```
 ---
