@@ -1,6 +1,10 @@
 Prompts on this page require the Natural Language to KQL plugin to work.
 <br><br>
 ```
+Summarize trends in failed login attempts and correlate them with known threat intelligence feeds.
+```
+---
+```
 Identify any unusual authentication attempts or privilege escalations across critical systems.
 ```
 ---
