@@ -6,7 +6,7 @@ Prompt engineering is a skill that can be learned and improved over time, by exp
 
 Want to learn more? See:
 * <a href="https://rodtrent.substack.com/p/prompt-engineering-for-ai-a-valuable">Prompt Engineering for AI: A Valuable Skill for Security Professionals?</a>
-* <a href="https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/">Get the most out of Microsoft Copilot for Security with good prompt engineering</a>
+* <a href="https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/">Get the most out of Microsoft Security Copilot with good prompt engineering</a>
 
 This folder contains prompt examples, prompting templates, and Promptbooks for use with Security Copilot to provide ideas to build on to create your own.
 
