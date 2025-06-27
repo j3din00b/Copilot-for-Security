@@ -1,6 +1,6 @@
 Did you stop by this repo looking for sample prompts, prompt templates, and Promptbooks for Copilot for Security. Go here: <a href="https://github.com/rod-trent/Security-Copilot/tree/main/Prompts" target="_blank">Security Copilot Prompt Samples, Promptbooks, and Templates</a>
 
-Want a bi-weekly digest of great, community-driven Security Copilot content? Subscribe or follow The CfS Prompt: https://aka.ms/TheCfSPrompt
+Want a bi-weekly digest of great, community-driven Security Copilot content? Subscribe or follow The CfS Prompt: https://microsoftdefender.substack.com/
 
 # Must Learn Security Copilot<br>
 
