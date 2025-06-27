@@ -21,9 +21,8 @@ All the Security Copilot content: https://rodtrent.substack.com/t/security-copil
 <b>A:</b> There are several resources being maintained to help learn Security Copilot. Here's a few (I'll add more as they are discovered):<br>
 * Joey Cruz' Security Copilot repo: https://github.com/iamjoeycruz/securitycopilot
 * Microsoft Learn path for Security Copilot: https://learn.microsoft.com/en-us/training/paths/security-copilot-and-ai/
-* Weekly Security Copilot and Sentinel/Defender newsletters:<br>
-        - THE PROMPT: https://thecfsprompt.substack.com/<br>
-        - SIEM and XDR: https://microsoftdefender.substack.com/<br>
+* Weekly Security Copilot and Sentinel/Defender newsletter:<br>
+        - THE PROMPT for Microsoft Security: https://microsoftdefender.substack.com/<br>
 
 
 <br>
